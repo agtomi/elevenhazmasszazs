@@ -37,51 +37,51 @@
                       </tr>
                   
                          <tr>
-                        <td>Április 02.<br>HÚSVÉT</td></td>
-                        <td>Április 03.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
-                        <td>Április 04.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 18:00</td>
-                        <td>Április 05.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 20:00</td></td>
-                        <td>Április 06.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 18:00</td>
-                        <td>Április 07.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">08:00 - 16:30</td>
-                        <td>Április 08.<br></td>
-                     <td></td>   
+                        <td>December 01.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:00</td></td></td>
+                        <td>December 02.<br>
+                        <td>December 03.<br>
+                        <td>December 04.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
+                        <td>December 05.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:00</td></td></td>
+                        <td>December 06.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>December 07.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                       
                              <tr>   <tr>
                                    <tr>
-                        <td>Április 09.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">11:30 - 20:00</td></td>
-                        <td>Április 10.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">08:00 - 12:00<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
-                        <td>Április 11.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 18:00</td>
-                        <td>Április 12.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 20:00</td></td>
-                        <td>Április 13.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">11:30 - 20:00</td>
-                        <td>Április 14.<br>Bálint<br>Sport és Gyógymasszázs</><div class="ido">08:00 - 16:30</td>
-                        <td>Április 15.<br></td>
+                        <td>December 08.<br>
+                        <td>December 09.<br>
+                        <td>December 10.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:00</td></td></td>
+                        <td>December 11.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
+                        <td>December 12.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:00</td></td></td>
+                        <td>December 13.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>December 14.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td></td>
 
           <tr>   <tr>
                                    <tr>
-                        <td>Április 16.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">11:30 - 20:00</td>
-                        <td>Április 17.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
-                        <td>Április 18.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 18:00</td></td>
-                        <td>Április 19.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 20:00</td></td>
-                        <td>Április 20.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 18:00</td>
-                        <td>Április 21.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">08:00 - 16:30</td>
-                        <td>Április 22.</td>
+                        <td>December 15.<br>
+                        <td>December 16.<br>
+                        <td>December 17.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:00</td></td></td>
+                        <td>December 18.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
+                        <td>December 19.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:00</td></td></td>
+                        <td>December 20.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>December 21.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td></td>
           <tr>   <tr>
                                    <tr>
-                        <td>Április 23.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">11:30 - 20:00</td>
-                        <td>Április 24.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">08:00 - 12:00<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
-                        <td>Április 25.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 18:00</td>
-                        <td>Április 26.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">09:30 - 20:00</td></td>
-                        <td>Április 27.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">11:30 - 20:00</td>
-                        <td>Április 28.<br>Bálint<br>Sport és Gyógymasszázs</><div class="ido">08:00 - 16:30</td>
-                        <td>Április 29.<br></td>
+                        <td>December 22.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:00</td></td></td>
+                        <td>December 23.<br>
+                        <td>December 24.<br>
+                        <td>December 25.<br>
+                        <td>December 26.<br>
+                        <td>December 27.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>December 28.<br></td>
           <tr>   <tr>
                                    <tr>
-                        <td>Április 30.<br>Vivien<br>Sport és Gyógymasszázs</><div class="ido">11:30 - 20:00</td></td>
-                        <td>Május 01.</td>
-                        <td>Május 02.</td>
-                        <td>Május 03.</td>
-                        <td>Május 04.</td>
-                        <td>Május 05.</td>
-                        <td>Május 06.</td>
+                        <td>December 29.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:00</td></td></td>
+                        <td>December 30.</td>
+                        <td>December 31.</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                 </tbody>
                            
             </table>  
