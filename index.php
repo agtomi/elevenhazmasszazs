@@ -77,8 +77,10 @@
                                    <tr>
                         <td>Január 28.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
                         <td>Január 29.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td></td>
-                        <td>Január 30.</td>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Január 31.</td>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Január 30.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
+                        <td>Január 31.<br>Angelika<br>Gyógymasszázs</><div class="ido">130 - 1930</td></td></td>
+                        <td>
+                        <td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -87,8 +89,8 @@
             </table>  
            <div class="szoveg">
                <p><b>Bejelentkezés:</b></p>
-               <p>Gyógymasszázs, sport és svédmasszázs: Tuza Vivien 06 57 430-551, 06 30 53-57-257  </p>                                    
-               <p>Gyógymasszázs, sport és svédmasszázs: Szappanos Bálint 06 57 430-551, 06 30 53-57-257 </p>
+               <p>Gyógymasszázs, sport és svédmasszázs: Bányai Angelika 06 57 430-551, 6 30 53-57-257  </p>                                    
+               
                <p>Reflexológia : Zsótér Erzsébet : 06 20 8016899 </p>
                   
             </div>
