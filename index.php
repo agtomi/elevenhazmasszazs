@@ -37,53 +37,53 @@
                       </tr>
                   
                          <tr>
-                        <td>Január 28.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Január 29.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>Angelika<br>Gyógymasszázs</><div
-                        <td>Január 30.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Január 31.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 01.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 02.<br>
-                        <td>Február 03.<br>
+                        <td>Április 1.<br>Angelika<br>Gyógymasszázs</><div class="ido">11:00 - 19:30</td></td></td>
+                        <td>Április 2.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
+                        <td>Április 3.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
+                        <td>Április 4.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Április 5.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Április 6.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:30</td></td></td>
+                        <td>Április 7.<br>
                        
                              <tr>   <tr>
                                    <tr>
-                        <td>Február 04.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Február 05.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
-                        <td>Február 06.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Február 07.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 08.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 09.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:30</td></td></td>
-                        <td>Február 10.<br>
+                        <td>Április 8.<br>Angelika<br>Gyógymasszázs</><div class="ido">11:00 - 19:30</td></td></td>
+                        <td>Április 9.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td></td>
+                        <td>Április 10.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
+                        <td>Április 11.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Április 12.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Április 13.<br>
+                        <td>Április 14.<br>
 
           <tr>   <tr>
                                    <tr>
-                        <td>Február 11.<br>
-                        <td>Február 12.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td></td>
-                        <td>Február 13.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Február 14.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 15.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 16.<br>
-                        <td>Február 17.<br>
+                        <td>Április 15.<br>Angelika<br>Gyógymasszázs</><div class="ido">11:00 - 19:30</td></td></td>
+                        <td>Április 16.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
+                        <td>Április 17.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
+                        <td>Április 18.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Április 19.<br>
+                        <td>Április 20.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:30</td></td></td>
+                        <td>Április 21.<br>
           <tr>   <tr>
                                    <tr>
-                        <td>Február 18.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Február 19.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
-                        <td>Február 20.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Február 21.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 22.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>Február 23.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:30</td></td></td>
-                        <td>Február 24.<br></td>
+                        <td>Április 22.<br>
+                        <td>Április 23.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td></td>
+                        <td>Április 24.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
+                        <td>Április 25.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>Április 26.<br>
+                        <td>Április 27.<br>
+                        <td>Április 28.<br>
           <tr>   <tr>
                                    <tr>
-                        <td>Február 25.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:00</td></td></td>
-                        <td>Február 26.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td></td>
-                        <td>Február 27.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
-                        <td>Február 28.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>
-                        <td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Április 29.<br>Angelika<br>Gyógymasszázs</><div class="ido">11:00 - 19:30</td></td></td>
+                        <td>Április 30.<br>Erzsi Reflexológia</><div class="ido">12:30 - 18:30</div></td>
+                        <td>Május 1.<br>
+                        <td>Május 2.<br>
+                        <td>Május 3.
+                        <td>Május 4.
+                        <td>Május 5.</td>
+                        <td>Május 6.</td>
+                        <td>Május 7.</td>
                 </tbody>
                            
             </table>  
