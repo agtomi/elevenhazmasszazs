@@ -13,7 +13,7 @@
                 <span class="scroll"></span>
                 <div class="head"> 
                     <div id="logo"></div>
-                    <div id="headszoveg">Masszázs Időbeosztása<br>2019. Május</div>
+                    <div id="headszoveg">Masszázs Időbeosztása<br>2019. Július</div>
                 </div>
            </div>
             </tr>
