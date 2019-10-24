@@ -47,7 +47,7 @@
                              <tr>   <tr>
                                    <tr>
                         <td>November 4.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                        <td>November 5.<br>Erzsi Reflexológia</><div class="ido">8:00 - 12:00</div>Angelika<br>Gyógymasszázs</><div class="
+                        <td>November 5.<br>Erzsi Reflexológia</><div class="ido">13:00 - 19:00</td></td></td>
                         <td>November 6.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
                         <td>November 7.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 8.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>    
