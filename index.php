@@ -13,7 +13,7 @@
                 <span class="scroll"></span>
                 <div class="head"> 
                     <div id="logo"></div>
-                    <div id="headszoveg">Masszázs Időbeosztása<br>2019. Július</div>
+                    <div id="headszoveg">Masszázs Időbeosztása<br>2019. November</div>
                 </div>
            </div>
             </tr>
@@ -38,43 +38,48 @@
                   
                          <tr>
                         <td>November 1.<br>
+                            
+                             <tr>   <tr>
+                                   <tr>
                         <td>November 2.<br>
                         <td>November 3.<br>
+                            
+                             <tr>   <tr>
+                                   <tr>
                         <td>November 4.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 5.<br>Erzsi Reflexológia</><div class="ido">8:00 - 12:00</div>Angelika<br>Gyógymasszázs</><div class="
                         <td>November 6.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
                         <td>November 7.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-                       
-                             <tr>   <tr>
-                                   <tr>
-                        <td>November 8.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
+                        <td>November 8.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>    
                         <td>November 9.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:30</td></td></td>
                         <td>November 10.<br>
+                            
+                             <tr>   <tr>
+                                   <tr>
                         <td>November 11.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 12.<br>Erzsi Reflexológia</><div class="ido">13:00 - 19:00</div>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td>
                         <td>November 13.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
                         <td>November 14.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-
-          <tr>   <tr>
-                                   <tr>
                         <td>November 15.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 16.<br>
                         <td>November 17.<br>
+                            
+                             <tr>   <tr>
+                                   <tr>
                         <td>November 18.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 19.<br>Erzsi Reflexológia</><div class="ido">13:00 - 19:00</td></td></td>
                         <td>November 20.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
                         <td>November 21.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-          <tr>   <tr>
-                                   <tr>
                         <td>November 22.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 23.<br>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 14:30</td></td></td>
                         <td>November 24.<br>
+                            
+                            <tr>   <tr>
+                                   <tr>
                         <td>November 25.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 26.<br>Erzsi Reflexológia</><div class="ido">13:00 - 19:00</div>Angelika<br>Gyógymasszázs</><div class="ido">08:00 - 12:00</td></td>
                         <td>November 27.<br>Angelika<br>Gyógymasszázs</><div class="ido">09:00 - 15:30</td></td></td>
                         <td>November 28.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
-          <tr>   <tr>
-                                   <tr>
                         <td>November 29.<br>Angelika<br>Gyógymasszázs</><div class="ido">13:00 - 19:30</td></td></td>
                         <td>November 30.<br>
 
