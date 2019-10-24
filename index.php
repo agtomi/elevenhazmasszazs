@@ -41,12 +41,18 @@
                              
                              
                              
-                        <td>November 1.<br>
+                    
                             
                              <tr>   <tr>
                                    <tr>
+                        <td>Október 28.<br>
+                        <td>Október 29.<br>Erzsi Reflexológia</><div class="ido">13:00 - 19:00</td></td></td>
+                        <td>Október 30.<br>
+                        <td>Október 31.<br>Angelika<br>Gyógymasszázs</><div class="ido">11:00 - 19:30</td></td></td>
+                        <td>November 1.<br>   
                         <td>November 2.<br>
                         <td>November 3.<br>
+                      
                             
                              <tr>   <tr>
                                    <tr>
